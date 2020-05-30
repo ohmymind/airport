@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.orig
+.swp
+npm-debug.log
+yarn-error.log
+.idea
+.history/
+.vscode/
+project-deploy/.queue
+project-deploy/.queue-lock
+project-deploy/.queue-lock
+project-deploy/task-core/.app-dir-map
