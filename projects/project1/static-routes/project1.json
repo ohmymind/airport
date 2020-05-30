@@ -1,0 +1,16 @@
+{
+  "project1": [
+      {
+          "path": "/api/login",
+          "method": "GET"
+      },
+      {
+          "path": "/api/filter/usertype",
+          "method": "GET"
+      },
+      {
+          "path": "/api/services/get/watermark",
+          "method": "GET"
+      }
+  ]
+}

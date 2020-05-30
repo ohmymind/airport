@@ -1,0 +1,11 @@
+{
+  "appDomain": "path.test.com",
+  "apiDomain": "api.path.test.com",
+  "port": 3030,
+  "appkey": "test.test.bi.path",
+  "api": {
+      
+  },
+  
+  "appName": "path"
+}

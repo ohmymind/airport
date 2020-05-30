@@ -1,0 +1,11 @@
+const path = require('path');
+const requireAll = require('require-all');
+const config = require('./config/config-file');
+const root = process.cwd();
+console.log('root:', root);
+console.log(config.PROJECT_STATIC_ROUTES_DIR);
+console.log(path.resolve(root, config.PROJECT_STATIC_ROUTES_DIR));
+const staticRoutes = require(path.resolve(root, config.PROJECT_CONFIG));
+console.log(staticRoutes);
+console.log(path.resolve(root, config.PROJECT_CONFIG));
+console.log(path.resolve('./a/', './test'));

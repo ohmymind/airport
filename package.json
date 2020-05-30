@@ -1,0 +1,23 @@
+{
+  "name": "airport",
+  "version": "0.0.1",
+  "description": "node服务托管平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmymind/airport.git"
+  },
+  "author": "",
+  "dependencies": {
+    "koa": "^2.12.0",
+    "require-all": "^3.0.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohmymind/airport/issues"
+  },
+  "homepage": "https://github.com/ohmymind/airport#readme"
+}
